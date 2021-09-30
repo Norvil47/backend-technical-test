@@ -41,4 +41,4 @@ ___
 ### :floppy_disk: Entregable
 
 1. El proyecto debe ser subido a github.
-2. El proyecto debe contar con un README.md que contenga las instrucciones para levantar la aplicación.
+2. El proyecto debe contar con un README.md que contenga las instrucciones para iniciar la aplicación.
