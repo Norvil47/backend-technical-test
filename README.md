@@ -35,7 +35,8 @@ ___
 2. Docker.
 3. Control de versiones con Git.
 4. Base de datos PostgreSQL o SQL Server.
-5. Pruebas unitarias.
+5. Principios SOLID/Clean Code
+6. Pruebas Unitarias.
 
 ### :floppy_disk: Entregable
 
